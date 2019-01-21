@@ -1,2 +1,2 @@
 # git-practice
-For practice purposes
+This repository is only for practice purposes.
